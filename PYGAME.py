@@ -17,6 +17,7 @@ CELL_SIZE = CANVAS_WIDTH // GRID_SIZE
 # Colors
 WHITE = (255, 255, 255)
 BLACK = (20, 20, 20)
+
 GREEN = (46, 204, 113)      # Start
 RED = (231, 76, 60)         # End
 BLUE = (52, 152, 219)       # Path
